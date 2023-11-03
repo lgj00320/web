@@ -1,0 +1,219 @@
+@import url('https://fonts.googleapis.com/css2?family=Nanum+Gothic:wght@400;700;800&display=swap');
+*{margin: 0 auto;}
+.wrap{
+    height: 5152px;
+}
+.box1{
+    height: 101px;
+    position: relative;
+}
+    .inbox1{
+        width: 1800px;
+        height: 101px;
+        position: relative;
+    }
+        .pic1{
+            position: absolute;
+            left: 50%;
+            top: 50%;
+            transform: translateX(-50%);
+            transform: translateY(-50%);
+        }
+        .menu{
+            left: 0px;
+            top: 35.5px;
+            position: absolute;
+        }
+.box2{
+    height: 723px;
+    position: relative;
+}
+    .inbox2{
+        width: 1800px;
+        height: 723px;
+        position: relative;
+    }
+        .pic2{
+            position: absolute;
+            left: 0px;
+            top: 0px;
+        }
+.box3{
+    height: 4227px;
+    background: linear-gradient(to bottom, #FFFFFF, #EDEDED);
+    position: relative;
+}
+    .inbox3{
+        width: 1200px;
+        height: 4262px;
+        background-color: white;
+        position: relative;
+    }
+        .sb1{
+            height: 345px;
+            position: relative;
+        }
+            .tit{
+                position: absolute;
+                left: 50px;
+                top: 35px;
+            }
+            .line{
+                position: absolute;
+                left: 48px;
+                bottom: 60px;
+            }
+        .sb2{
+            width: 1100px;
+            height: 882px;
+            position: relative;
+        }
+            .pic4{
+                position: absolute;
+                right: 0px;
+                top: 0px;
+            }
+            .pic5{
+                position: absolute;
+                right: 0px;
+                top: 292px;
+            }
+            .pic6{
+                position: absolute;
+                right: 0px;
+                bottom: 24px;
+            }
+            .c1{
+                position: absolute;
+                left: 0pxs;
+                bottom: 2px;
+                font-family:'Nanum Gothic';
+                font-size: 15px;
+                font-weight: 400;
+                letter-spacing: -0.9px;
+            }
+        .sb3{
+            width: 1100px;
+            height: 563px;
+            position: relative;
+        }
+            .t1{
+                position: absolute;
+                left: 0px;
+                top: 45px;
+                font-family:'Nanum Gothic';
+                font-size: 20px;
+                font-weight: 400;
+                letter-spacing: -0.9px;
+                line-height: 45px;
+            }
+            .t2{
+                position: absolute;
+                left: 0px;
+                bottom: 55px;
+                font-family:'Nanum Gothic';
+                font-size: 20px;
+                font-weight: 400;
+                letter-spacing: -0.9px;
+                line-height: 45px;
+            }
+        .sb4{
+            width: 1100px;
+            height: 560px;
+            position: relative;
+        }
+        .sb5{
+            width: 1100px;
+            height: 830px;
+            position: relative;
+        }
+        .t3{
+            position: absolute;
+            left: 0px;
+            top: 45px;
+            font-family:'Nanum Gothic';
+            font-size: 20px;
+            font-weight: 400;
+            letter-spacing: -0.9px;
+            line-height: 45px;
+        }
+        .t4{
+            position: absolute;
+            left: 0px;
+            bottom: 55px;
+            font-family:'Nanum Gothic';
+            font-size: 20px;
+            font-weight: 400;
+            letter-spacing: -0.9px;
+            line-height: 45px;
+        }
+        .sb6{
+            width: 1100px;
+            height: 448px;
+            position: relative;
+        }
+            .pic9{
+                position: absolute;
+                right: 0px;
+                top: 0px;
+            }
+            .c2{
+                position: absolute;
+                left: 0pxs;
+                bottom: 0px;
+                font-family:'Nanum Gothic';
+                font-size: 15px;
+                font-weight: 400;
+                letter-spacing: -1.6px;
+            }
+        .sb7{
+            width: 1100px;
+            height: 601px;
+            position: relative;
+        }
+            .t5{
+                position: absolute;
+                left: 0px;
+                top: 45px;
+                font-family:'Nanum Gothic';
+                font-size: 20px;
+                font-weight: 400;
+                letter-spacing: -0.9px;
+                line-height: 45px;
+            }
+            .c3{
+                position: absolute;
+                left: 0pxs;
+                bottom: 13px;
+                font-family:'Nanum Gothic';
+                font-size: 15px;
+                font-weight: 400;
+                letter-spacing: -0.5px;
+            }
+
+.box4{
+    height: 128px;
+    background-color: black;
+    position: relative;
+}
+ .pic10{
+    position: absolute;
+            left: 50%;
+            top: 50%;
+            transform: translateX(-50%);
+            transform: translateY(-50%);
+ }
+ .pic11{
+    position: absolute;
+            top: 50%;
+            right: 60px;
+            transform: translateY(-50%);
+ }
+ .txt{
+    position: absolute;
+    top: 50%;
+    left: 60px;
+    transform: translateY(-50%);
+}
+ 
+
